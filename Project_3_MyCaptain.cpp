@@ -1,3 +1,5 @@
+// "Elements of Array using Pointers"
+
 #include<iostream>
 using namespace std;
 
@@ -14,3 +16,5 @@ int main(){
     
     return 0;
 }
+
+// Contributed by Suyash Vetal
